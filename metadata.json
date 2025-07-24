@@ -1,0 +1,5 @@
+
+{
+  "name": "SeqFinder",
+  "description": "A web-based tool for life science researchers to automatically search for specific DNA/RNA sequences within large sequence data, visualize the results, and export them."
+}
